@@ -5,9 +5,5 @@
         <members>Medicine__c.Dolo__c</members>
         <name>Customfield</name>
     </types>
-      <types>
-        <members>Medicine__c</members>
-        <name>CustomObject</name>
-    </types>  
     <version>53.0</version>
 </Package>

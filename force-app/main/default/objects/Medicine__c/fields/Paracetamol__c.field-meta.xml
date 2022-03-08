@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Paracetamol__c</fullName>
+    <description>Reduces fever</description>
     <externalId>false</externalId>
     <label>Paracetamol</label>
     <length>10</length>
